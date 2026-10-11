@@ -1,0 +1,13 @@
+codigo,nombre,categoria,precio,stock,paga_iva
+GAL001,Galleta de avena,Galletas,3.50,60,SI
+GAL002,Galleta de mantequilla,Galletas,3.00,70,SI
+GAL003,Polvorón,Galletas,2.50,50,SI
+GAL004,Galleta con chispas,Galletas,4.50,45,SI
+PAN001,Pan francés,Pan,1.00,140,NO
+PAN002,Pan integral,Pan,6.50,40,SI
+PAN003,Pan de manteca,Pan,1.50,80,NO
+PAN004,Baguette,Pan,8.00,30,SI
+PAS001,Pastel de chocolate,Pastelería,85.00,8,SI
+PAS002,Tres leches,Pastelería,12.00,20,SI
+PAS003,Empanada de manjar,Pastelería,7.50,25,SI
+PAS004,Croissant,Pastelería,9.00,35,SI
